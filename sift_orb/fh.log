@@ -1,0 +1,4 @@
+2024-05-02 00:07:18 - __main__ - INFO      - sift.py  : 525 line - sift beginning...
+2024-05-02 00:07:19 - __main__ - INFO      - sift.py  : 549 line - orb done, time used: 1.100s
+2024-05-02 00:07:19 - __main__ - INFO      - sift.py  : 556 line - match done, time used: 0.570s
+2024-05-02 00:07:20 - __main__ - INFO      - sift.py  : 576 line - all done, time used: 2.210s
