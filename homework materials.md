@@ -11,8 +11,7 @@
 
 - **CVPR 2023: Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**  
   The paper propose a novel module to explicitly extract motion and appearance information via a unifying operation. Specifically, they rethink the information process in inter-frame attention and reuse its attention map for both appearance feature enhancement and motion information extraction. Furthermore, for efficient VFI, the proposed module could be seamlessly integrated into a hybrid CNN and Transformer architecture. This hybrid pipeline can alleviate the computational complexity of inter-frame attention as well as preserve detailed low-level structure information.  
-  [oai_citation:2,github](https://github.com/MCG-NJU/EMA-VFI)  
-  [code:2.github](https://github.com/MCG-NJU/EMA-VFI)
+  [oai_citation with code:2,github](https://github.com/MCG-NJU/EMA-VFI)
 
 - **CVPR 2022: Optimizing Video Prediction via Video Frame Interpolation**  
   This paper explores the integration of video frame interpolation techniques to enhance video prediction tasks. By leveraging advancements in video frame interpolation, the researchers aim to address challenges in predicting video frames accurately in diverse and dynamic environments. **The idea of optimization is used, and there is no need to train the network**  
